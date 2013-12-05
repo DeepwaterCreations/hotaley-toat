@@ -1,4 +1,23 @@
-import java.util.ArrayList;
+/*
+ * Copyright 2013 Dylan Craine
+ * 
+    This file is part of Hotaley Toat.
+
+    Hotaley Toat is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Hotaley Toat is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Hotaley Toat.  If not, see <http://www.gnu.org/licenses/>.
+ * 
+ */
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
@@ -7,9 +26,8 @@ import java.util.Random;
  * 
  * Makes strings, just like it says on the lid. DUUUUH!
  * 0s are vowels, 1s are consonants.
- * TODO: Dipthongs, consonant combos.
  * 
- * @author Dylan Craine
+ * @author Deepwater Creations 
  *
  */
 public class Stringmaker {
